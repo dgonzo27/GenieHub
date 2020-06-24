@@ -20,19 +20,16 @@ I'm back bitches
 ## Setup from git clone
 In your terminal, run:
     
-    git clone https://github.com/dgonzo27/react-django-docker-boiler.git
+    git clone https://github.com/dgonzo27/GenieHub.git
     
 Build and Run the app:
+
     # Install NVM
     go look it up and get it on github
     
     # Use NVM to install react/node
     nvm install 13.10.0
-    
-or  
-    nvm install 13.10.1
-    
-not sure which is right
+
 
     # Navigate into directory
     cd GenieHub
